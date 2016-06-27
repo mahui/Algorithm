@@ -1,3 +1,3 @@
 # Algorithm
 
-- 选择排序 [sort/SelectionSort.go](sort/SelectionSort)
+- 选择排序 [sort/SelectionSort.go](sort/SelectionSort.go)
